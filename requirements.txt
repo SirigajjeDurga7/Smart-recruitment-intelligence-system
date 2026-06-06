@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+scikit-learn
+tensorflow
+keras
+PyPDF2
+pypdf
+matplotlib
+seaborn
+wordcloud
+joblib
+gdown
